@@ -46,10 +46,7 @@ QuoteGuard/
 ├── 01_Project_Overview.md
 ├── 02_StepByStep_Build_Guide.md
 ├── QuoteGuard_Model.xlsx
-└── screenshots/
-    ├── deal_overview.png
-    ├── renewal_overview.png
-    └── approval_workflow.png
+└── screenshots
 ```
 
 ## Tools Used
