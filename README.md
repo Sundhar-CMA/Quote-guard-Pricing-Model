@@ -43,8 +43,8 @@ Most pricing portfolio projects stop at "here's a pricing calculator." Real Pric
 ```
 QuoteGuard/
 ├── README.md
-├── 01_Project_Overview.md
-├── 02_StepByStep_Build_Guide.md
+├──Project_Overview.pdf
+├──Step_ByStep_Build_Guide.pdf
 ├── QuoteGuard_Model.xlsx
 └── screenshots
 ```
