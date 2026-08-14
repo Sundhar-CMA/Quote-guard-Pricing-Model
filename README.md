@@ -31,7 +31,8 @@ Most pricing portfolio projects stop at "here's a pricing calculator." Real Pric
 
 **Renewal intelligence:** Two independent escalation flags — Renewal Shrinkage and Deployment Migration — that can fire simultaneously, since they represent different governance risks.
 
-![Deal Overview]([Screenshots/Deal Overview.png](https://github.com/Sundhar-CMA/Quote-guard-Pricing-Model/blob/c7ec5ee167e7befa327fb53cd3e1866d08b50063/Screenshots/Deal%20Overview.png))
+![Deal Input](https://github.com/Sundhar-CMA/Quote-guard-Pricing-Model/blob/main/Screenshots/Deal%20Input.png)
+![Deal Overview](https://github.com/Sundhar-CMA/Quote-guard-Pricing-Model/blob/main/Screenshots/Deal%20Overview.png)
 
 ## Roadmap — Not Yet Built
 
